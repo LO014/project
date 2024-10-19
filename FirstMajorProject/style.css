@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(106, 158, 158);
+}
+h1{
+    color:rgb(0, 0, 0);
+    font-family: fantasy;
+    text-shadow: 5px 5px 10px red;
+}
+#mistake{
+    color: burlywood;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-shadow: 10px 10px 10px black;
+}
+
+button{
+    text-align: center;
+    background-color: black;
+    color: aquamarine;
+    border-color: white;
+    border-radius: 20px;
+    width: 5cm;
+    height: 1cm;
+    border-style: outset;
+}
+.BOX{
+    border: 5px solid;
+    text-align: center;
+    font-size: 1.3cm;
+    width: 5cm;
+    height: 2cm;
+    border-radius: 10px;
+}
+#box1{
+    background-color: blueviolet;
+    border-color: green;
+}
+#box2{
+    background-color: blue;
+    border-color: red;
+    margin-left: 5.5cm;
+}
+#box3{
+    background-color: brown;
+    border-color: yellow;
+    margin-left: 11cm;
+}
+a:hover{
+    color: chartreuse;
+}
+a:link{
+    color: black;
+}
+p{
+    font-size: 20px;
+}
+
+.button1:hover{
+    color: yellow;
+    background-color: violet;
+}
+#singleb:hover{
+    color: red;
+    scale: 1.1;
+    background-color: aqua;
+}
+a:link{
+    color: black;
+}
+.fa-youtube:hover{
+    color: white;
+}
+.fa-youtube{
+    size: 10cm;
+    color: red;
+}

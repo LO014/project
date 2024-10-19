@@ -1,0 +1,50 @@
+body{
+    border-style: solid;
+    display: flow-root;
+}
+.img{
+    width: 150px;
+    height: 150px;
+    border-style: none;
+}
+#img1{
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 20px;
+}
+#img2{
+    float: right;
+    margin-right: 10px;
+}
+text{
+    color: purple;
+}
+button{
+    border-style: solid;
+    background-color: yellow;
+
+}
+#box1{
+    height: 300px;
+    width: 300px;
+    background-color: aqua;
+    position: fixed;
+    top: 300px;
+    left: 650px;
+
+    
+}
+#box2{
+    width:100px;
+    height: 100px;
+    text-align:center;
+    background-color: black;
+    color: aqua;
+    position: relative;
+    top: 100px;
+    left: 100px;
+}
+.para{
+    font-size: 30px;
+}
